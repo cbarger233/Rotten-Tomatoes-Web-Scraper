@@ -9,5 +9,3 @@ Anyway, it was also good to know that the creator of the above dataset also had 
 Below you will find a test I did on the movie Interstellar, my favorite movie which did not make the top 100 movie list for 2014 somehow....
 
 Below that I have defined some functions to aid in the collection of review data for the top 100 movies for each year between 2000 and 2021. Collecting all this data takes a long time. You will see somewhere in the comments me complaining about my poor internet, and how I had to settle for only scraping data for the year 2021 as a result.
-
-I plan to work on this more in the future. In addition to the collection of data, I wish to do some sentiment analysis using NLP to see if I can predict whether a review is fresh or rotten. Hopefully I have time to work on that soon.
